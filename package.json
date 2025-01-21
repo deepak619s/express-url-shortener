@@ -1,0 +1,14 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node -watch app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "deepak sinha",
+  "license": "ISC",
+  "description": ""
+}
